@@ -8,8 +8,7 @@ This programming exercise serves as:
 After having finished Ch 5.1 - 5.3 ( up to PowerPoint slide #20 in Module 2 ) , Do the Followings:
 1) Download and Read this program and understand what it does: apply_Irvine_libs_tmpl.asm Download apply_Irvine_libs_tmpl.asm  ; it is the template(base code) for your programming exercise and it has some blank lines, marked by "underlines _________"; you can read Ch 5.4 of the text or, download this Help Manual to read more about the specifications and the argument format/requirements for Procedures invocation : IrvineLibHelp.chm Download IrvineLibHelp.chm 
 2) Fill in the blank lines, one instruction each, in the template file above to get it running correctly. Here is an execution and output sample:
-image
-![Sample Image](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%232/image.png)
+![Sample Output Image](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%232/image.png)
 
 4) When you test your program, use you own data, including the proverb; Don't copy the input data from Above!
 
