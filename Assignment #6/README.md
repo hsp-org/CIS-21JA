@@ -6,7 +6,7 @@ Hint: Use the Gotoxy procedure from Irvine32.lib to locate the cursor on the scr
 
 Sample Output:
 
-![]()
+![](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%236/Ex%201%20Output%20Sample.png)
 
  
 
@@ -17,7 +17,7 @@ Create a procedure that generates a random string of length L, containing all ca
 Sample Output:
 
 
-![]()
+![](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%236/Ex%202%20Output%20Sample.png)
  
 
 # Programming Exercise 3 - COLOR MATRIX [15 pts]
@@ -26,4 +26,4 @@ Write a program that displays a single character in all possible combinations of
 
 Sample Output:
 
-![]()
+![](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%236/Ex%203%20Output%20Sample.png)
