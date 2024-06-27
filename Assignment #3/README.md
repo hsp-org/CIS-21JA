@@ -12,9 +12,9 @@ To show the operation of your program and to verify the calculation results, you
 In addition to the .asm file, please also submit screen captures showing the successful Build and execution with correct result - saved in pdf format. See sample of each shown below:
 
 1. Screen capture of successful Build:
-
+![successful build image](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%233/prob1_built_scr_shot.png)
 2. Screen capture of successful execution:
-
+![successful run image](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%233/prob1_run_scr_shot.png)
 # 2. Listing File for AddTwoSum ( 10 pts )
 Generate a listing file for AddTwoSum.asm(in 3.4.3 of the text) and write a description of the machine code bytes generated for each instruction. You can write your descriptions directly over the .lst file. You might have to guess at some of the meanings of the byte values.
 
