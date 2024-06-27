@@ -9,9 +9,10 @@ After having finished Ch 5.1 - 5.3 ( up to PowerPoint slide #20 in Module 2 ) , 
 1) Download and Read this program and understand what it does: apply_Irvine_libs_tmpl.asm Download apply_Irvine_libs_tmpl.asm  ; it is the template(base code) for your programming exercise and it has some blank lines, marked by "underlines _________"; you can read Ch 5.4 of the text or, download this Help Manual to read more about the specifications and the argument format/requirements for Procedures invocation : IrvineLibHelp.chm Download IrvineLibHelp.chm 
 2) Fill in the blank lines, one instruction each, in the template file above to get it running correctly. Here is an execution and output sample:
 image
+![Sample Image](https://github.com/hsp-org/CIS-21JA/blob/main/Assignment%20%232/image.png)
 
-3) When you test your program, use you own data, including the proverb; Don't copy the input data from Above!
+4) When you test your program, use you own data, including the proverb; Don't copy the input data from Above!
 
-4) Submit your .asm file, with the modifications.
+5) Submit your .asm file, with the modifications.
 
-5) And, submit the screen capture similar to the Above, saved in pdf format. This is to prove that you Have tested your program and it runs without problem - producing correct output.
+6) And, submit the screen capture similar to the Above, saved in pdf format. This is to prove that you Have tested your program and it runs without problem - producing correct output.
